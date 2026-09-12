@@ -1,11 +1,11 @@
 {
-  "versionCode": 40,
-  "versionName": "4.0",
-  "title": "HuanxongKuaiyin 4.0",
-  "changelog": "First release",
-  "force": false,
-  "minSupportedVersionCode": 0,
-  "url": "https://github.com/Xia8250/huanxongkuaiyin-updates/releases/download/v4.0/HuanxongKuaiyin-4.0.apk",
-  "sizeBytes": 275906305,
-  "sha256": "358a4b0bfcbae4e00660c76e38146e7083feabc6914214cd7ded52f17ea362ec"
+    "versionCode": 41,
+    "versionName": "4.1.0",
+    "title": "浣熊快印 4.1.0",
+    "changelog": "广告横带模式上线:固定模板/粗体/字号自动最大化/整体旋转 90°;修复打印后多走纸问题;预览与打印完全一致",
+    "force": false,
+    "minSupportedVersionCode": 0,
+    "url": "https://github.com/Xia8250/huanxongkuaiyin-updates/releases/download/v4.1/app-release.apk",
+    "sizeBytes": 266751801,
+    "sha256": "8fa3e02f33b69e17943bc387834f96575a1188b32f139de6373491fa2f1f006e"
 }
